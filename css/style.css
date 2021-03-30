@@ -1,0 +1,12 @@
+li {
+    display: inline;
+    float: right;
+    padding: 5%;
+  }
+
+  h1{text-align: center;}
+
+  fieldset {
+    background-color: rgb(89, 89, 150);
+    margin-top: 5%;
+  }
